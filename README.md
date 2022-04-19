@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Skills
+- HTML
+- CSS 
+- SASS
+- webpack
+- WordPress
+- JavaScipt
+- jQuery
+
+# Studying
+- React
+- Next.js
+- Vue.js
+- nuxt.js
