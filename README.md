@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - JavaScipt
 - jQuery
 
-### Studying
+### 🌱 I’m currently learning
 - React
 - Next.js
 - Vue.js
