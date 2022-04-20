@@ -1,4 +1,4 @@
-### Hi there 👋
+# Iam yuche❗
 
 <!--
 **YunosukeYoshino/YunosukeYoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Skills
+### ⚡Skills
 - HTML
 - CSS 
 - SASS
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - JavaScipt
 - jQuery
 
-# Studying
+### Studying
 - React
 - Next.js
 - Vue.js
