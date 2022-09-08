@@ -11,9 +11,8 @@
 - JavaScipt
 - jQuery
 
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=yunosukeyoshino&show_icons=true&locale=en" alt="yunosukeyoshino" /></p>
-
 # Blogs posts
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=yunosukeyoshino&show_icons=true&locale=en" alt="yunosukeyoshino" /></p>
 <!-- BLOG-POST-LIST:START -->
 - [webpackのCSSのbackground-imageのpath問題を解決する](https://qiita.com/pomufgd/items/dfc044b5ee8dff54a0bd)
 - [M1 macにてnodebrewをinstallしようとしたらnodebrew にて詰まった話](https://qiita.com/pomufgd/items/a7266db07e3ca338fd74)
