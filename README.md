@@ -3,12 +3,11 @@
 <p><img align="right" width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=yunosukeyoshino&show_icons=true&locale=en&layout=compact" alt="yunosukeyoshino" /></p>
 
 ### ⚡Skills
-- HTML
-- CSS
-- SASS
+- HTML(EJS,Pug)
+- CSS(SCSS)
+- JavaScript(Vanilla)
 - WordPress(PHP)
 - Shopify(Liquid)
-- JavaScript(Vanilla)
 - webpack
 - Vite
 - React
