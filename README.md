@@ -6,10 +6,13 @@
 - HTML
 - CSS
 - SASS
+- WordPress(PHP)
+- Shopify(Liquid)
+- JavaScript(Vanilla)
 - webpack
-- WordPress
-- JavaScipt
-- jQuery
+- Vite
+- React
+- Next.js
 
 # Blogs posts
 
