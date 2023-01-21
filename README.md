@@ -8,8 +8,11 @@
 - Shopify(Liquid)
 - webpack
 - Vite
+
+
+# 📚learning
 - React
 - Next.js
-
-
+- Processing
+- p5.js
 
