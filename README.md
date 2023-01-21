@@ -11,7 +11,7 @@
   - Shopify(Liquid)
   - webpack
   - Vite
- -　❤️
+- ❤️
   - Web Animation
   - Interaction　
 
