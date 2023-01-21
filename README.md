@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm yunosuke yoshino</h1>
+<h1>Hi 👋, I'm Yunosuke Yoshino</h1>
 
 
 ## ⚡ Skills
