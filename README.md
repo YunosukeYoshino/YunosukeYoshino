@@ -2,7 +2,7 @@
 
 
 ## ⚡ Skills
-- Markup Enginner
+- Markup Engineer
 - Tech
   - HTML(EJS,Pug)
   - CSS(SCSS)
