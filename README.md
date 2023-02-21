@@ -19,6 +19,8 @@
 ##  📚 Learning
 - React
 - Next.js
+- webgl
+- three.js
 - Processing
 - p5.js
 
