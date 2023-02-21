@@ -20,7 +20,8 @@
 - React
 - Next.js
 - webgl
-- three.js
+- WebGL
+- Three.js
 - Processing
 - p5.js
 
