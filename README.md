@@ -19,7 +19,6 @@
 ##  📚 Learning
 - React
 - Next.js
-- webgl
 - WebGL
 - Three.js
 - Processing
