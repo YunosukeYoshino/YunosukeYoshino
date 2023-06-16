@@ -11,6 +11,7 @@
   - Shopify(Liquid)
   - webpack
   - Vite
+  - Astro
 - ❤️
   - Web Animation
   - Interaction　
@@ -21,6 +22,5 @@
 - Next.js
 - WebGL
 - Three.js
-- Processing
-- p5.js
+
 
