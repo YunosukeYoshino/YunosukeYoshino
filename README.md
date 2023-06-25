@@ -12,7 +12,7 @@
   - webpack
   - Vite
   - Astro
-- ❤️
+- 💛
   - Web Animation
   - Interaction　
 
