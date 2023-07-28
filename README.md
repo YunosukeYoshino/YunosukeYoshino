@@ -2,24 +2,21 @@
 
 
 ## ⚡ Skills
-- Markup Engineer
+- Front-end Engineer 
 - Tech
   - HTML(EJS,Pug)
   - CSS(SCSS)
-  - JavaScript(Vanilla)
+  - JavaScript
   - WordPress(PHP)
   - Shopify(Liquid)
-  - webpack
-  - Vite
   - Astro
+  - React
+  - Next.js
 - 💛
   - Web Animation
-  - Interaction　
-
+  - Interaction
 
 ##  📚 Learning
-- React
-- Next.js
 - WebGL
 - Three.js
 
