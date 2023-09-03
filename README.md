@@ -14,10 +14,4 @@
   - Web Animation
   - Interaction
 
-##  📚 Learning
-- WebGL
-- Three.js
-- React
-- Next.js
-
 
