@@ -10,8 +10,6 @@
   - WordPress(PHP)
   - Shopify(Liquid)
   - Astro
-  - React
-  - Next.js
 - 💛
   - Web Animation
   - Interaction
@@ -19,5 +17,7 @@
 ##  📚 Learning
 - WebGL
 - Three.js
+- React
+- Next.js
 
 
