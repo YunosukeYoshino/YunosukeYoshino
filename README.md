@@ -7,7 +7,6 @@
   - HTML(EJS,Pug)
   - CSS(SCSS)
   - JavaScript
-  - WordPress(PHP)
   - Shopify(Liquid)
   - Astro
 - 💛
