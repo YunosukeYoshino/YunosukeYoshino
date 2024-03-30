@@ -8,7 +8,6 @@
   - CSS(SCSS)
   - JavaScript
   - Shopify(Liquid)
-  - Astro
 - 💛
   - Web Animation
   - Interaction
