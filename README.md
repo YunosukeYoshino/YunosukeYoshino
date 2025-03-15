@@ -1,45 +1,40 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=YunosukeYoshino" />
-</div>
+## 👋 Hi! I'm YunosukeYoshino
+
+<p align="left"> 
+  <a href="https://github.com/YunosukeYoshino">
+    <img src="https://komarev.com/ghpvc/?username=YunosukeYoshino" alt="Profile views" />
+  </a>
+  <a href="https://github.com/YunosukeYoshino">
+    <img height="20" src="https://img.shields.io/github/followers/YunosukeYoshino?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
+### 🚀 About Me
+- 🎯 **職業:** Frontend Engineer
+
+### 🛠️ Tech Stack
+
+![Skills](https://skillicons.dev/icons?theme=light&perline=6&i=html,css,tailwind,js,ts,react,nextjs,remix,astro,vite,hono,cloudflare,github,vscode)
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=YunosukeYoshino&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
+  <img alt="Top Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunosukeYoshino&layout=compact&count_private=true&hide_border=true&theme=transparent" />
+</p>
+
+### 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YunosukeYoshino&theme=github-light&hide_border=true)
+
+### 🏅 GitHub Trophy
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YunosukeYoshino&no-frame=true&no-bg=true&theme=flat)
 
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+### 🔥 Wakatime Stats
 
-- 🧑‍💻 I'm a Frontend engineer.
-<br>
+<!--START_SECTION:waka-->
+![Code Time](https://img.shields.io/badge/Code%20Time-800%20hrs-blue)
 
-
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-<!-- ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,scss,tailwind,js,ts,react,astro,vite,vscode,github" />
-<br> -->
-
-
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark 
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=YunosukeYoshino&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunosukeYoshino&theme=vue-dark&layout=compact" />
-</div>
- -->
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
