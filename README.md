@@ -10,7 +10,7 @@
 </p>
 
 ### 🚀 About Me
-- 🎯 **職業:** Frontend Engineer
+- 🎯 Frontend Engineer
 
 ### 🛠️ Tech Stack
 
