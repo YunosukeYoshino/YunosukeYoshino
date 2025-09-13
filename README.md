@@ -1,22 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F7A2F2&height=150&section=header&text=Hi!%20I'm%20YunosukeYoshino%20👋&fontSize=30&fontAlignY=35)
-
-
-
-<p align="center"> 
-  <a href="https://github.com/YunosukeYoshino">
-    <img src="https://komarev.com/ghpvc/?username=YunosukeYoshino&style=flat-square&color=ff69b4" alt="Profile views" />
-  </a>
-  <a href="https://github.com/YunosukeYoshino">
-    <img height="20" src="https://img.shields.io/github/followers/YunosukeYoshino?label=follow&logo=github&style=flat-square&color=blueviolet" />
-  </a>
-</p>
-
----
+# Hi I'm YUNOSUKE YOSHINO 👋
 
 ### 🚀 About Me
 - Former front-end engineer
 - Not really sure about code anymore
 - Mostly just going with the flow these days
+
+
+
+<a href="https://github.com/YunosukeYoshino">
+  <img src="https://komarev.com/ghpvc/?username=YunosukeYoshino&style=flat-square&color=ff69b4" alt="Profile views" />
+</a>
+<a href="https://github.com/YunosukeYoshino">
+  <img height="20" src="https://img.shields.io/github/followers/YunosukeYoshino?label=follow&logo=github&style=flat-square&color=blueviolet" />
+</a>
+
 
 ---
 
