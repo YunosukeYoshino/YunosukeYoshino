@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7A2F2&height=150&section=header&text=Hi!%20I'm%20YunosukeYoshino%20👋&fontSize=30&fontAlignY=35)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7A2F2&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%F0%9F%8E%AF;Love+Hono%2C+Next.js%2C+Cloudflare+Workers;Building+beautiful+UI+with+Tailwind" alt="Typing SVG" />
-</p>
+
 
 <p align="center"> 
   <a href="https://github.com/YunosukeYoshino">
@@ -16,9 +14,9 @@
 ---
 
 ### 🚀 About Me
-- 🎯 Frontend Engineer
-- 💎 Enjoy building interactive & stylish apps
-- ☁️ Cloudflare Workers enthusiast
+- Former front-end engineer
+- Not really sure about code anymore
+- Mostly just going with the flow these days
 
 ---
 
@@ -54,3 +52,7 @@
 ### 🔥 Wakatime Stats
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-800%20hrs-blue?style=flat-square&logo=wakatime)
+
+
+
+
