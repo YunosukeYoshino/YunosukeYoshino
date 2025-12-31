@@ -20,17 +20,9 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,tailwind,js,ts,react,nextjs,remix,astro,vite,cloudflare,github,vscode" />
+  <img src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,tailwind,js,ts,react,nextjs,astro,vite,cloudflare,github,vscode,git,nodejs,bun,figma,workers,wordpress" />
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=YunosukeYoshino&count_private=true&show_icons=true&hide_border=true&theme=radical" />
-  <img alt="Top Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunosukeYoshino&layout=compact&count_private=true&hide_border=true&theme=radical" />
-</p>
 
 ---
 
@@ -39,12 +31,6 @@
 
 ---
 
-### 🏅 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YunosukeYoshino&theme=dracula&no-frame=true&margin-w=5" />
-</p>
-
----
 
 ### 🔥 Wakatime Stats
 <!--START_SECTION:waka-->
