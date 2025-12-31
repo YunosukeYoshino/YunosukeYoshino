@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,tailwind,js,ts,react,nextjs,astro,vite,cloudflare,github,vscode,git,nodejs,bun,figma,workers,wordpress" />
+  <img src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,tailwind,js,ts,react,nextjs,astro,vite,cloudflare,workers,github,git,vscode,nodejs,bun,figma,wordpress" />
 </p>
 
 
