@@ -1,11 +1,5 @@
 # Hi I'm YUNOSUKE YOSHINO 👋
 
-### 🚀 About Me
-- Former front-end engineer
-- Not really sure about code anymore
-- Mostly just going with the flow these days
-
-
 
 <a href="https://github.com/YunosukeYoshino">
   <img src="https://komarev.com/ghpvc/?username=YunosukeYoshino&style=flat-square&color=ff69b4" alt="Profile views" />
