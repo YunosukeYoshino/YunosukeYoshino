@@ -1,4 +1,4 @@
-# Hi I'm YUNOSUKE YOSHINO 👋
+# Hi I'm YOSHINO 👋
 
 
 <a href="https://github.com/YunosukeYoshino">
@@ -13,8 +13,8 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,tailwind,js,ts,react,nextjs,astro,vite,cloudflare,workers,github,git,vscode,nodejs,bun,figma,wordpress" />
+<p>
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,googlegemini,claudeai,githubcopilot,github,reactjs,tailwindcss,astro,nextjs,bun,vite,visualstudiocode,ghostty" />
 </p>
 
 
