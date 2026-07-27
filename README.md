@@ -30,15 +30,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunosukeYoshino&theme=github_dark" width="480" alt="Profile Details" />
 </p>
 
-
-<!-- Contribution Graph -->
-<h3>Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunosukeYoshino&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&hide_border=true&area_color=444444" width="680" alt="Contribution Graph" />
-</p>
-
-
 <!-- Wakatime -->
 <h3>Coding&nbsp;Time</h3>
 
