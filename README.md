@@ -29,13 +29,7 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunosukeYoshino&theme=github_dark" width="480" alt="Profile Details" />
 </p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YunosukeYoshino&theme=github_dark" width="380" alt="Top Languages by Commit" />
-</p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunosukeYoshino&hide_border=true&theme=highcontrast&background=00000000&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888&currStreakNum=FFFFFF&sideNums=AAAAAA" width="500" alt="GitHub Streak" />
-</p>
 
 <!-- Contribution Graph -->
 <h3>Activity</h3>
