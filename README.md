@@ -38,14 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YunosukeYoshino&bg_color=0D1117&color=AAAAAA&line=FFFFFF&point=FFFFFF&hide_border=true&area_color=444444" width="680" alt="Contribution Graph" />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YunosukeYoshino/YunosukeYoshino/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YunosukeYoshino/YunosukeYoshino/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YunosukeYoshino/YunosukeYoshino/output/github-contribution-grid-snake-dark.svg" width="680" />
-  </picture>
-</p>
 
 <!-- Wakatime -->
 <h3>Coding&nbsp;Time</h3>
