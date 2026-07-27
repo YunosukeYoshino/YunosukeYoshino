@@ -27,9 +27,10 @@
 <h3>Statistics</h3>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YunosukeYoshino&theme=github_dark" width="380" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YunosukeYoshino&theme=github_dark" width="380" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunosukeYoshino&theme=github_dark" width="480" alt="Profile Details" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YunosukeYoshino&theme=github_dark" width="380" alt="Top Languages by Commit" />
 </p>
 
 <p>
