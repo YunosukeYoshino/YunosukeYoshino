@@ -20,7 +20,7 @@
 <h3>Tech&nbsp;Stack</h3>
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=codex,cursor,grok,claudeai,github,ghostty&perline=12&radius=85" />
+  <img src="https://skills.syvixor.com/api/icons?i=codex,cursor,claudeai,github,ghostty&perline=12&radius=85" />
 
   
 </p>
