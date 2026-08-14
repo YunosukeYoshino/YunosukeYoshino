@@ -20,7 +20,9 @@
 <h3>Tech&nbsp;Stack</h3>
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,googlegemini,claudeai,githubcopilot,github,reactjs,tailwindcss,astro,nextjs,bun,vite,visualstudiocode,ghostty" />
+  <img src="https://skills.syvixor.com/api/icons?i=codex,cursor,claudeai,github,ghostty&perline=12&radius=85" />
+
+  
 </p>
 
 <!-- Stats -->
