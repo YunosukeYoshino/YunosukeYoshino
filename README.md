@@ -25,12 +25,6 @@
   
 </p>
 
-<!-- Stats -->
-<h3>Statistics</h3>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YunosukeYoshino&theme=github_dark" width="480" alt="Profile Details" />
-</p>
 
 <!-- Wakatime -->
 <h3>Coding&nbsp;Time</h3>
